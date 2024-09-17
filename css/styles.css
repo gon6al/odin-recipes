@@ -1,0 +1,29 @@
+body {
+    background-color: #1a1b26;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titles {
+    color: #c0caf5;
+    text-align: center;
+}
+
+.text,
+p {
+    color: #9aa5ce;
+}
+
+a {
+    color: #7dcfff;
+    font-weight: bolder;
+}
+
+li {
+    color: #9aa5ce
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
