@@ -1,11 +1,21 @@
 body {
     background-color: #1a1b26;
     font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 50px;
 }
 
 .titles {
     color: #c0caf5;
     text-align: center;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: dotted;
+    border-width: 3px;
+    display: block
 }
 
 .text,
@@ -26,4 +36,21 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.mainlist {
+    text-align: justify;
+    display: block;
+    border-color: #7dcfff;
+    border-width: 2px;
+    padding-top: 10px;
+}
+
+.myul {
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    padding: 25px;
 }
